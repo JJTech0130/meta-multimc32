@@ -10,8 +10,8 @@
             "downloads": {
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "8ce3aae4ed043730911761155849b3313e36f238",
-                        "size": 530654,
+                        "sha1": "1bc004d647a2e94d969c00a2bb2a472f37109f2d",
+                        "size": 10630,
                         "url": "https://jjtech0130.github.io/meta-downloads/jinput-platform-2.0.5-natives-linux.jar"
                     },
                     "natives-osx": {
