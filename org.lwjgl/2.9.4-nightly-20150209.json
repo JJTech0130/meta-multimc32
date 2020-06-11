@@ -67,8 +67,8 @@
                 },
                 "classifiers": {
                     "natives-linux": {
-                        "sha1": "0e42f35e5c3bb66ef274af87edc8fe5354fa215b",
-                        "size": 725657,
+                        "sha1": "8ce3aae4ed043730911761155849b3313e36f238",
+	                    "size": 530654,
                         "url": "https://jjtech0130.github.io/meta-downloads/lwjgl-platform-2.9.4-nightly-20150209-natives-linux-arm32.jar"
                     },
                     "natives-osx": {
